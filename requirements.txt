@@ -3,5 +3,4 @@ numpy
 Pillow
 matplotlib
 scikit-learn
-gradio
 streamlit
